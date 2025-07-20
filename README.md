@@ -1,2 +1,2 @@
-The Crop Recommendation System is a machine learning-based tool that suggests the best crop for cultivation based on soil and climate parameters like NPK levels, temperature, humidity, rainfall, and pH. 
+The Crop Prediction System is a machine learning-based tool that suggests the best crop for cultivation based on soil and climate parameters like NPK levels, temperature, humidity, rainfall, and pH. 
 It uses classification algorithms in Python (Pandas, Scikit-learn, NumPy) to analyze input data and provide accurate recommendations, helping farmers optimize yield and promote sustainable agriculture.
